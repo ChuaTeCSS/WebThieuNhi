@@ -1,0 +1,89 @@
+.khungcha{
+	width: 1200px;
+	height: 700px;
+	display: block;
+	float: left;
+
+}
+
+.tinto{
+	display: block;
+	width: 561px;
+	height: 420px;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	float: left;
+	padding: 4px;
+}
+.tinto img{
+	width: 561px;
+	height: 420px;
+}
+a{
+	text-decoration: none;
+}
+h2{
+	position: absolute;
+	color: white;
+	bottom: 0px;
+	left: 0px;
+	z-index: 3;
+	font-family: tahoma;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+h4{
+	position: absolute;
+	color: white;
+	bottom: 0px;
+	left: 0px;
+	z-index: 3;
+	font-family: tahoma;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.tinto .layerto{
+	width: 561px;
+	height: 420px;
+	position: absolute;
+	z-index: 2;
+	top: 4px;
+	left: 4px;
+	background-image: -webkit-linear-gradient(top,rgb(255 255 255 / 11%)80%,rgb(0 0 0 / 90%)100%);
+	transition: 0.3s;
+}
+.tinto .layerto:hover{
+	background-image: -webkit-linear-gradient(top,rgb(255 255 255 / 11%)80%,rgb(0 0 0 / 60%)100%);	
+
+}
+.tinnho .layernho{
+	width: 279px;
+	height: 208px;
+	position: absolute;
+	z-index: 2;
+	bottom: 4px;
+	left: 4px;
+	background-image: -webkit-linear-gradient(top,rgb(255 255 255 / 11%)80%,rgb(0 0 0 / 90%)100%);
+	transition: 0.3s;
+}
+
+.tinnho{
+	width: 275px;
+	height: 206px;
+	display: block;
+	z-index: 1;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	float: left;
+	padding: 4px;
+}
+
+.tinnho img{
+	width: 279px;
+	height: 208px;
+
+}
+

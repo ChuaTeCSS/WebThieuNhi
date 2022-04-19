@@ -1,0 +1,38 @@
+a{
+	text-decoration: none;
+	color: darkviolet;
+	font-weight: bold;
+	font-size: 30px;
+	text-align:left ;
+	display: block;
+	font-family: tahoma;
+
+}
+table{
+	width: 700px;
+	height: auto;
+}
+p{
+	padding-top: 1px;
+}
+a.link{
+	text-decoration: none;
+	color: darkviolet;
+	font-size: 15px;
+	text-align:left ;
+	display: block;
+	line-height: 25px;
+	padding-left: 20px;
+	background-image: url(icon.png);
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+	background-position: left 8px;
+}
+td{
+	padding: 5px;
+}
+img{
+	height: 100%;
+
+}
+

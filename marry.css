@@ -1,0 +1,49 @@
+.khoitin{
+	display: flex;
+	flex-wrap: nowrap;
+	width: 1078px;
+	height: 469px;
+}
+
+.tinnho{
+	display: block;
+	line-height: 25px;
+	width: 204px;
+	height: 300px;
+	padding-left: 16px;
+}
+.khoitin div:first-of-type{
+	padding-left: 0;
+}
+.khoitin div:last-of-type{
+	padding-right: 0;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+img{
+	border-radius: 5px;
+	width: 204px;
+	height: 300px;
+	display: block;
+
+}
+.tinnho img:hover{
+	transition: 0.3s ease-in-out;
+	transform: scale(1.02);
+	filter: brightness(0.8);
+	
+}
+.zoom {
+	overflow: hidden;
+	display: block;
+}
+
+p{
+	color: grey;
+}
+h2{
+	text-transform: uppercase;
+}

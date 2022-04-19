@@ -1,0 +1,23 @@
+.tieude{
+	height: 100px;
+	width: 500px;
+	border-top: 2px solid hotpink;
+}
+.tieude a{
+	text-decoration: none;
+	font-size: 24;
+	font-weight: bold;
+	text-transform: uppercase;
+	position: relative;
+	top: 15px;
+	left: 200px;
+	background-color: white;
+	padding: 0 10px;
+}
+.vien{
+	height: 5px;
+	width: 500px;
+	border-bottom: 2px solid grey;
+	
+
+}

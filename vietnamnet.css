@@ -1,0 +1,60 @@
+.tintren
+{
+	width:440px;
+	height: 424px;
+	padding-left: 5px;
+}
+.tintren a{
+	text-decoration: none;
+	font-size: 22px;
+	font-weight: bold;
+
+}
+
+.tintren a:hover{
+	
+	color: red;
+}
+.tintren img{
+	width:434px;
+	height: 294px;
+}
+.tinduoi{
+	width:440px;
+	height: 363px;
+	
+	
+}
+.tinduoi img{
+	width: 100%;
+	
+}
+.tinduoi a{
+	text-decoration: none;
+}
+.tinnho{
+	width: 140px;
+	height: 93px;
+	display: block;
+	float: left;
+	padding-bottom: 90px;
+	padding-left: 5px;
+
+	
+}
+.tinduoitren{
+	padding-left: 5px;
+
+}
+.tinduoi .tinduoitren div:first-of-type{
+	padding-left: 0;
+}
+.tinduoi .tinduoitren div:last-of-type{
+	padding-right: 0;
+}
+.tinduoiduoi{
+	display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}

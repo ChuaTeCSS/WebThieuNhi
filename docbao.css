@@ -1,0 +1,79 @@
+.tieude
+{
+	background-color: white;
+	color: lightskyblue;
+	border-left: 6px solid lightskyblue;
+	padding-left: 5px;
+	
+}
+.ndtl{
+	
+	width: 340px;
+	height: 500px;
+	background-color: lightgrey;
+}
+.ndtl a.atinlon{
+	display: block;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 23px;
+	padding-left: 10px;
+	color: #004f8b;
+	
+}
+.ndtl a.atinlon:hover{
+	color: lightskyblue;
+	transition: 0.2s;
+}
+.ndtl p{
+	display: block;
+	padding: 10px;
+	padding-top: 5px;
+	font-size: 17px;
+}
+a.atinlontruoc:hover +a.atinlon{
+	color: lawngreen;
+}
+.tinlon{
+	
+	font-family: tahoma;
+	
+}
+.tinnho ul li{
+	list-style-type: none;
+
+}
+.tinnho{
+	width: 370px;
+	height: 500px;
+	border: 1px solid black;
+
+}
+a{
+	text-decoration: none;
+}
+.tinbe img{
+	width: 165px;
+	height: 124px;
+}
+ul{
+	width: 380px;
+	display: block;
+
+}
+li{
+	display: block;
+	
+	float: left;
+	margin-right: 12px;
+	margin-bottom: 10px;
+
+}
+.tinbe {
+	width: 165px;
+	height: 124px;
+	margin-left: 10px;
+	float: left;
+	display: block;
+	margin-bottom: 100px;
+}

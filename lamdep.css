@@ -1,0 +1,57 @@
+
+.duongkemenu{
+	border-top: 2px dashed grey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.tieudemenu{
+	text-align: left;
+	padding-left: 20px;
+	text-decoration: none;
+	color: grey;
+}
+.tieudemenu:hover{
+	color: pink;
+	transition: 0.1s;
+}
+.tintrai{
+	height: 300px;
+	width: 200px;
+	background-image: url(14.jfif);
+	padding-top: 172px;
+	background-repeat: no-repeat;
+	float: left;
+}
+.tinphai{
+	float: left;
+	height: 225px;
+	width: 400px;
+	background-color: lightblue;
+	
+}
+.anhlon{
+
+}
+.anhnho{
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.ndtt{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	
+}
+.tintrai .ndtt:hover{
+	opacity: 0.9;
+}
+.ndtp{
+	
+
+	display:block ;
+	text-decoration: none;
+
+}
+
+
